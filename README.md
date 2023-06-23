@@ -17,3 +17,14 @@
  [Taller1.1_Manteniento de la Fuente de Poder-DAVID-GANCHALA.pdf](https://github.com/DavidGanchala31/MANTENIMIENTO-DE-LA-FUENTE-DE-PODER-/files/11792831/Taller1.1_Manteniento.de.la.Fuente.de.Poder-DAVID-GANCHALA.pdf)
 
 ![image](https://github.com/DavidGanchala31/MANTENIMIENTO-DE-LA-FUENTE-DE-PODER-/assets/135990048/8e6fc6e6-da2e-43d2-8b6d-86f2cd296206)
+
+LABORATORIO 2.1 Clasificar Mediante Código De Colores Las Características De Los Conectores De La Fuente De Poder
+
+ADJUNTO EL PDF DEL LABORATORIO:
+
+[Lab2.1. Clasificar Mediante Código De Colores Las Características De Los Conectores De La Fuente De Poder-GANCHALA_DAVID.pdf](https://github.com/DavidGanchala31/MANTENIMIENTO-DE-LA-FUENTE-DE-PODER-/files/11843552/Lab2.1.Clasificar.Mediante.Codigo.De.Colores.Las.Caracteristicas.De.Los.Conectores.De.La.Fuente.De.Poder-GANCHALA_DAVID.pdf)
+
+
+LINK DEL VIDEO REALIZADO:
+
+https://youtu.be/qQ0xckxzCf8
